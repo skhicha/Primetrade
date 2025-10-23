@@ -1,0 +1,4 @@
+Account,Coin,Execution Price,Size Tokens,Size USD,Side,Timestamp IST,Start Position,Direction,Closed PnL,Transaction Hash,Order ID,Crossed,Fee,Trade ID,Timestamp
+user123,BTCUSD,30850,0.5,15425,buy,2024-10-21 14:30:00,0.0,buy,150,tx1,1,false,0.1,tid1,1697898600000
+user456,BTCUSD,31000,1.0,31000,sell,2024-10-21 10:15:00,0.0,sell,-200,tx2,2,false,0.1,tid2,1697883300000
+user123,BTCUSD,30500,0.3,9150,buy,2024-10-22 09:00:00,0.0,buy,100,tx3,3,false,0.05,tid3,1697970000000
